@@ -350,4 +350,3 @@ vrchat.com
 auth.meta.com
 account.meta.com
 facebook.net
-example.com
