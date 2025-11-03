@@ -351,3 +351,4 @@ auth.meta.com
 account.meta.com
 facebook.net
 test1.com
+test2.com
