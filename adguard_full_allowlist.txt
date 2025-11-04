@@ -356,3 +356,4 @@ smtp.gmail.com
 google.com
 googleapis.com
 gstatic.com
+api.barraider.com
