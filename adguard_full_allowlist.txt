@@ -353,3 +353,4 @@ facebook.net
 iptorrents.com
 imap.gmail.com
 smtp.gmail.com
+google.com
