@@ -352,3 +352,4 @@ account.meta.com
 facebook.net
 iptorrents.com
 imap.gmail.com
+smtp.gmail.com
