@@ -355,3 +355,4 @@ imap.gmail.com
 smtp.gmail.com
 google.com
 googleapis.com
+gstatic.com
