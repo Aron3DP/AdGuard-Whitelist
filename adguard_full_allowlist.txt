@@ -380,3 +380,4 @@ dealer.spotify.com
 api.spotify.com
 apresolve.spotify.com
 gstaticadssl.l.google.com
+redirector.gvt1.com
