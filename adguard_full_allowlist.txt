@@ -361,3 +361,4 @@ barraider.com
 github.com
 firebaselogging-pa.googleapis.com
 www.googleapis.com
+update.googleapis.com
