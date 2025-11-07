@@ -374,3 +374,4 @@ connectivitycheck.gstatic.com
 device-provisioning.googleapis.com
 clients3.google.com
 clients4.google.com
+clients6.google.com
