@@ -377,3 +377,4 @@ clients4.google.com
 clients6.google.com
 spclient.wg.spotify.com
 dealer.spotify.com
+api.spotify.com
