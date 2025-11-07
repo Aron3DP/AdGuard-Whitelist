@@ -381,3 +381,4 @@ api.spotify.com
 apresolve.spotify.com
 gstaticadssl.l.google.com
 redirector.gvt1.com
+youtubei.googleapis.com
