@@ -382,3 +382,4 @@ apresolve.spotify.com
 gstaticadssl.l.google.com
 redirector.gvt1.com
 youtubei.googleapis.com
+yt3.ggpht.com
