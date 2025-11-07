@@ -379,3 +379,4 @@ spclient.wg.spotify.com
 dealer.spotify.com
 api.spotify.com
 apresolve.spotify.com
+gstaticadssl.l.google.com
