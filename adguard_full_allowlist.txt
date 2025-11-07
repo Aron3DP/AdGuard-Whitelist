@@ -366,3 +366,4 @@ play.googleapis.com
 signaler-pa.googleapis.com
 connectivitycheck.gstatic.com
 firebaselogging-pa.googleapis.com
+www.googleapis.com
