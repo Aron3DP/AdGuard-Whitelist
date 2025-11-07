@@ -372,3 +372,4 @@ play.googleapis.com
 signaler-pa.googleapis.com
 connectivitycheck.gstatic.com
 device-provisioning.googleapis.com
+clients3.google.com
