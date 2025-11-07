@@ -384,3 +384,4 @@ redirector.gvt1.com
 youtubei.googleapis.com
 yt3.ggpht.com
 i.ytimg.com
+content.googleapis.com
