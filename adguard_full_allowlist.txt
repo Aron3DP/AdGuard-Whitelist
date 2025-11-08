@@ -388,3 +388,4 @@ content.googleapis.com
 dealer.spotify.com
 dealer.spotify.com
 spclient.wg.spotify.com
+apresolve.spotify.com
