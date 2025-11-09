@@ -391,3 +391,4 @@ spclient.wg.spotify.com
 apresolve.spotify.com
 sora.com
 api.sora.com
+cdn.sora.com
