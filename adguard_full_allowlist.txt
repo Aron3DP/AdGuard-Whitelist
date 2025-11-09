@@ -395,3 +395,4 @@ cdn.sora.com
 auth.sora.com
 openai.com
 chatgpt.com
+chat.openai.com
