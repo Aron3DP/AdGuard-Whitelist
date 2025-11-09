@@ -412,3 +412,4 @@ x.com
 twitter.com
 oaistatic.com
 cdn.oaistatic.com
+statsigapi.net
