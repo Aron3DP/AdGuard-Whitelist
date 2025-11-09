@@ -400,3 +400,4 @@ auth0.openai.com
 openaiapi-auth-ent.auth0.com
 cdn.oaistatic.com
 cdn.auth0.com
+grok.com
