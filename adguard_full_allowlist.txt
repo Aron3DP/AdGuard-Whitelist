@@ -397,3 +397,4 @@ openai.com
 chatgpt.com
 chat.openai.com
 auth0.openai.com
+openaiapi-auth-ent.auth0.com
