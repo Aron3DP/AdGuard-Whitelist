@@ -394,3 +394,4 @@ api.sora.com
 cdn.sora.com
 auth.sora.com
 openai.com
+chatgpt.com
