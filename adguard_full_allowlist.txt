@@ -414,3 +414,4 @@ oaistatic.com
 cdn.oaistatic.com
 statsigapi.net
 identify-eu.api.openai.com
+opfcaptcha.com
