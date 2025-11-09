@@ -411,3 +411,4 @@ auth.x.com
 x.com
 twitter.com
 oaistatic.com
+cdn.oaistatic.com
