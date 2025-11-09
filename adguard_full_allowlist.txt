@@ -419,3 +419,4 @@ challenges.cloudflare.com
 intercom.io
 intercomcdn.com
 imgix.net
+iptorrents.com
