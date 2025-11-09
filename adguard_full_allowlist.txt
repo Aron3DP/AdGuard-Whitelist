@@ -407,3 +407,4 @@ api.x.ai
 console.x.ai
 docs.x.ai
 accounts.x.ai
+auth.x.com
