@@ -403,3 +403,4 @@ cdn.auth0.com
 grok.com
 grok.x.ai
 x.ai
+api.x.ai
