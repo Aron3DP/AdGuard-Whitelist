@@ -418,3 +418,4 @@ opfcaptcha.com
 challenges.cloudflare.com
 intercom.io
 intercomcdn.com
+imgix.net
