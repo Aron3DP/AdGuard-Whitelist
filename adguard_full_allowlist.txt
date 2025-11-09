@@ -410,3 +410,4 @@ accounts.x.ai
 auth.x.com
 x.com
 twitter.com
+oaistatic.com
